@@ -2,16 +2,11 @@
   
 # Olá, eu sou o RD1707!
 
-### Desenvolvedor Full Stack | Entusiasta de IA | Criador de Soluções
-
-[![GitHub followers](https://img.shields.io/github/followers/RD1707?style=social)](https://github.com/RD1707)
-[![Email](https://img.shields.io/badge/Email-souplemonpie%40gmail.com-red?style=flat&logo=gmail)](mailto:souplemonpie@gmail.com)
-
----
-
-### **"Sempre buscando aprender, criar e compartilhar conhecimento"**
+### Desenvolvedor Full Stack 
 
 </div>
+
+---
 
 <div align="left">
 
