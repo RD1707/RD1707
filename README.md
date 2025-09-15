@@ -15,13 +15,7 @@
 
 <div align="left">
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RD1707&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RD1707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RD1707&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
