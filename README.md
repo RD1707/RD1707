@@ -10,16 +10,6 @@
 
 <div align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RD1707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
-<div align="left">
-
-## Tech Stack
-
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
